@@ -11,7 +11,7 @@ To start with repository,
 
 > git clone https://github.com/singhmanav/reactAssignment.git
 
-> cd react-assignment
+> cd reactAssignment
 
 > npm install
 
